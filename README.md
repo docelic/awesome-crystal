@@ -367,6 +367,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [promise](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ## Project Generators
+ * [bindgen](https://github.com/Papierkorb/bindgen) - Standalone C, C++, and/or Qt binding and wrapper generator
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
